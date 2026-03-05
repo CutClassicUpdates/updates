@@ -1,2 +1,2 @@
 # updates
-Cut Classic Update Check
+Cut Classic
